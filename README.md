@@ -10,4 +10,4 @@ Actions-> Workflow -> jmeter_test_results
 5. Click and download this, you will find a index.html in zip file.
 
 index.html Sample:
-![Screenshot](https://github.com/berkaykirmizioglu/weather_jmeter/samples/testresult.png)
+![Screenshot](https://github.com/berkaykirmizioglu/weather_jmeter/blob/main/samples/testresult.png)
